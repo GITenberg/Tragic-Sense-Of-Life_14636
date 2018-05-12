@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5605
     wikipedia: http://en.wikipedia.org/wiki/Miguel_de_Unamuno
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14636#Tragic-Sense-Of-Life
 gutenberg_issued: '2005-01-08'
 gutenberg_type: Text
 identifiers:
